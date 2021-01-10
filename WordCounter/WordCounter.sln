@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter.Android", "WordCounter\WordCounter.Android\WordCounter.Android.csproj", "{DBAF1F84-9E03-4688-A517-0D51E0D1FCAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCounter", "WordCounter\WordCounter\WordCounter.csproj", "{A21F6A65-AF74-4064-808F-5A2ADABC6910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBAF1F84-9E03-4688-A517-0D51E0D1FCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAF1F84-9E03-4688-A517-0D51E0D1FCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAF1F84-9E03-4688-A517-0D51E0D1FCAB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DBAF1F84-9E03-4688-A517-0D51E0D1FCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAF1F84-9E03-4688-A517-0D51E0D1FCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAF1F84-9E03-4688-A517-0D51E0D1FCAB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A21F6A65-AF74-4064-808F-5A2ADABC6910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A21F6A65-AF74-4064-808F-5A2ADABC6910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A21F6A65-AF74-4064-808F-5A2ADABC6910}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A21F6A65-AF74-4064-808F-5A2ADABC6910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A21F6A65-AF74-4064-808F-5A2ADABC6910}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A21F6A65-AF74-4064-808F-5A2ADABC6910}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A444C5-9C0C-4236-B152-A0BE705B220B}
+	EndGlobalSection
+EndGlobal

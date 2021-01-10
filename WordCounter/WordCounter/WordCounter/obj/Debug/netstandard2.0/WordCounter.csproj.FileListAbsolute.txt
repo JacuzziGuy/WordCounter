@@ -1,0 +1,14 @@
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\bin\Debug\netstandard2.0\WordCounter.deps.json
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\bin\Debug\netstandard2.0\WordCounter.dll
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\bin\Debug\netstandard2.0\ref\WordCounter.dll
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\bin\Debug\netstandard2.0\WordCounter.pdb
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\obj\Debug\netstandard2.0\WordCounter.csprojAssemblyReference.cache
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\obj\Debug\netstandard2.0\WordCounter.AssemblyInfoInputs.cache
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\obj\Debug\netstandard2.0\WordCounter.AssemblyInfo.cs
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\obj\Debug\netstandard2.0\WordCounter.csproj.CoreCompileInputs.cache
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\obj\Debug\netstandard2.0\WordCounter.dll
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\obj\Debug\netstandard2.0\ref\WordCounter.dll
+D:\Haha PP\GitHub\WordCounter\WordCounter\WordCounter\WordCounter\obj\Debug\netstandard2.0\WordCounter.pdb
