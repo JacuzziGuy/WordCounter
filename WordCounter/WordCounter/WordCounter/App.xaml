@@ -3,6 +3,22 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="WordCounter.App">
     <Application.Resources>
-
+        <ResourceDictionary>
+            <Style TargetType="NavigationPage">
+                <Setter Property="BackgroundColor" Value="#EDF7F6"/>
+                <Setter Property="BarBackgroundColor" Value="#2660A4"/>
+            </Style>
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="#56351E"/>
+            </Style>
+            <Style TargetType="Editor">
+                <Setter Property="TextColor" Value="#56351E"/>
+                <Setter Property="PlaceholderColor" Value="#C47335"/>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#F19953"/>
+                <Setter Property="CornerRadius" Value="15"/>
+            </Style>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
