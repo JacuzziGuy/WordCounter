@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="WordCounter.Views.MainPage">
+             x:Class="WordCounter.Views.MainPage"
+             Title="Licznik słów i zdań">
 
     <StackLayout Margin="40">
-        <Label Text="Twoja wypowiedź:"/>
-        <Editor x:Name="input" Placeholder="Tekst..."/>
-        <Button Text="Dodaj" Clicked="SubmitClicked"/>
-        <Label x:Name="output"/>
+        <Label Text="Twoja wypowiedź:" FontSize="Large" FontAttributes="Bold"/>
+        <Editor x:Name="input" Placeholder="Tekst..." HeightRequest="200" Margin="10"/>
+        <Button Text="Dodaj" Clicked="SubmitClicked" Padding="5" Margin="10"/>
+        <Label x:Name="output" FontSize="Large" FontAttributes="Bold"/>
     </StackLayout>
 
 </ContentPage>
